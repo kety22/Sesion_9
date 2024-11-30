@@ -10,3 +10,9 @@ p{
     color: brown;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.titu{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    text-transform: capitalize;
+}
